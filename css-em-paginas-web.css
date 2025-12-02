@@ -1,0 +1,40 @@
+.elemento-com-borda {
+    border: 2px solid #000;
+    padding: 10px;
+    margin: 15px;
+}
+.cascata-de-bordas .elemento-interno {
+    background-color: grey;
+}
+.cascata-de-bordas .elemento-interno .elemento-mais-interno {
+    border: 3px dashed red;
+    padding: 5px;
+}
+.elemento-sem-borda {
+    background-color: lightblue;
+    padding: 20px;
+    margin: 10px;
+}
+#para2{
+    /* Estilização específica para o parágrafo com id "para2" */
+    /*background-color: orange;*/
+}
+.gradient{
+    font-weight: bold;
+    font-size: 4rem;
+    background: linear-gradient(to right, red, yellow, green, blue);
+    margin: 20px 30px;
+}
+p{
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+#para1{
+    color:green;
+    padding: 10px 50px 10px 5px;
+}
