@@ -38,3 +38,85 @@ p{
     color:green;
     padding: 10px 50px 10px 5px;
 }
+
+/*
+Propriedades CSS
+
+Existem inúmeras propriedades CSS, desde as definidas pela sua especificação, ditas propriedades padrão, até as proprietárias, que funcionam apenas em alguns navegadores. A fim de garantir uma maior compatibilidade, assim como otimizar o desenvolvimento, devemos sempre dar preferência às propriedades padrão. Estas são algumas das propriedades mais comuns da CSS:
+
+
+
+background
+
+Estiliza o fundo de elementos. Para tal, há uma série de propriedades, além do atalho “background”, como “background-color”, “background-image” etc.
+
+
+border
+
+Controla as bordas de um elemento, sendo possível definir suas cores, espessuras, entre outras propriedades.
+
+
+top, bottom, right e left
+
+Controlam o posicionamento, relativo ou absoluto, dos elementos em relação a outros elementos.
+
+
+color
+
+Estiliza a cor do conteúdo textual de um elemento.
+
+
+font-family, font-size, font-weight etc.
+
+Série de propriedades usada para estilizar o conteúdo textual de um elemento no que diz respeito à fonte, como a família de fontes, seu tamanho, peso (mais clara ou mais escura - negrito) etc.
+
+
+height
+
+Define a altura de um elemento.
+
+
+list-style, list-style-image etc.
+
+Propriedades usadas para estilizar as listas HTML.
+
+
+margin
+
+Controla a distância em função da margem de um elemento para outro.
+
+
+padding
+
+Controla a distância entre as bordas e o conteúdo de um elemento.
+
+
+position
+
+Define como um elemento deve ser posicionado na página.
+
+
+text-...
+
+Muitas propriedades controlam o comportamento do conteúdo textual de um elemento, como alinhamento (justificado, centralizado etc.), aparência (sublinhado etc.) etc.
+
+
+width
+
+Define a largura de um elemento.
+
+
+z-index
+
+Define a profundidade de um elemento – usado, por exemplo, para sobreposição de elementos.
+
+CSS e HTML
+
+Há três formas usuais de aplicar estilos em um documento HTML usando CSS: Inline, Interna e Externa. Além dessas, a HTML5 permite a aplicação em escopo.
+
+
+CSS inline
+
+Essa forma envolve a declaração do estilo CSS diretamente na tag, no código HTML. A declaração inline faz uso do atributo style procedido por declarações separadas por ponto e vírgula “;”. Esse atributo pode ser usado em qualquer tag HTML.
+
+*/
